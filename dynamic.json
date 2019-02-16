@@ -1,0 +1,45 @@
+{
+	"profile":{
+	   "img":"picture.png",
+	   "name":"Jyothi",
+	   "roll":"509",
+	   "place":"Vijayawada"
+	},
+	"career":{
+		"info":"To improve my thoughts by earning knoweledge"
+	},
+	"education":[
+		{
+		"sno":"1",
+		"degree":"B.tech",
+		"institute":"Pragati",
+		"per":"78%",
+		"year":"2017"
+	    },
+	    {
+	    "sno":"2",
+	    "degree":"intermediate",
+		"institute":"srichaitanya",
+		"per":"89%",
+		"year":"2015"
+        },
+        {
+        "sno":"3",
+        "degree":"ssc",
+		"institute":"Atchuta",
+		"per":"90%",
+        "year":"2014" 
+        }
+	],
+	"lang":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"telugu"
+		},
+		{
+			"lang":"hindi"
+		}
+	]
+}
